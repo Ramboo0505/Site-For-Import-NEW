@@ -1,10 +1,5 @@
-# Игнорировать все файлы в подкаталоге tmp/
 tmp/
-
-# Игнорировать файлы с суффиксами _old и _backup (любое расширение)
-*_old.*
-*_backup.*
-
-# Игнорировать временные файлы Windows (Thumbs.db) и macOS (.DS_Store)
-Thumbs.db
-.DS_Store
+*_old*
+*_backup*
+Thumbs
+DS_Store
