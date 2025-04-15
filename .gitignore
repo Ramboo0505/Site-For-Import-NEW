@@ -1,7 +1,6 @@
-
 tmp/
-*_old*
-*_backup*
-Thumbs
-DS_Store
-
+*_old
+*_backup
+Thumbs.db
+.DS_Store
+git-homeworks-neuro-merge/
